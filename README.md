@@ -1,1 +1,1 @@
-Знакомство с ветвлениями и циклами
+Introduction to branching and looping
